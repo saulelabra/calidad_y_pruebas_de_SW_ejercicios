@@ -1,0 +1,365 @@
+1573572802909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Lyg5Q"
+1573572803749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573572803749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573572803749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573572803750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573572805575	Marionette	INFO	Listening on port 33707
+1573572805628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1573573128804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTKzVeK"
+1573573129391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573129391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573129391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573129391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573131171	Marionette	INFO	Listening on port 34007
+1573573131233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573573207473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6c3my3"
+1573573207873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573207873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573207873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573207873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573209599	Marionette	INFO	Listening on port 37047
+1573573209680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1573573421940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6DWCjR"
+1573573422429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573422429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573422429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573422429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573424326	Marionette	INFO	Listening on port 45883
+1573573424403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573573452483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQPeI0"
+1573573452935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573452935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573452935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573452936	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573456297	Marionette	INFO	Listening on port 35553
+1573573456395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+
+(/usr/lib/firefox/firefox:13218): dconf-WARNING **: 09:44:21.853: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1573573591975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJVGPHP"
+1573573592419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573592419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573592419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573592419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573594756	Marionette	INFO	Listening on port 36663
+1573573594812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+[Parent 12860, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12860, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573614671	Marionette	INFO	Stopped listening on port 45883
+1573573617435	Marionette	INFO	Stopped listening on port 36663
+[Parent 13136, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13136, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573617957	Marionette	INFO	Stopped listening on port 35553
+[Parent 11828, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11828, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573620342	Marionette	INFO	Stopped listening on port 34007
+[Parent 12249, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573621864	Marionette	INFO	Stopped listening on port 37047
+[Parent 10834, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10834, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573623253	Marionette	INFO	Stopped listening on port 33707
+1573573646411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileia8WFr"
+1573573646831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573646831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573646831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573646832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573650479	Marionette	INFO	Listening on port 36079
+1573573650525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+
+(/usr/lib/firefox/firefox:14053): dconf-WARNING **: 09:47:32.046: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1573573745452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEYIib1"
+1573573745858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573745858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573745858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573745858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573747464	Marionette	INFO	Listening on port 37871
+1573573747559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+
+(/usr/lib/firefox/firefox:14494): dconf-WARNING **: 09:49:09.140: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1573573777747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM7IiDg"
+1573573778183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573778183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573778183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573778184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573779763	Marionette	INFO	Listening on port 36269
+1573573779868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573573797905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4nKIGC"
+1573573798343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573798343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573798343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573798343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573800298	Marionette	INFO	Listening on port 37979
+1573573800370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573573813288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSFOIfw"
+1573573813727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573573813727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573573813727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573573813727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573573815358	Marionette	INFO	Listening on port 37501
+1573573815417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573573821074	Marionette	INFO	Stopped listening on port 37501
+[Parent 14412, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14412, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573882503	Marionette	INFO	Stopped listening on port 37871
+[Parent 14718, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14718, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573883714	Marionette	INFO	Stopped listening on port 36269
+[Parent 14953, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14953, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573573885025	Marionette	INFO	Stopped listening on port 37979
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+[Parent 13969, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13969, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573574079664	Marionette	INFO	Stopped listening on port 36079
+1573825339581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepW7uqk"
+1573825340515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573825340515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573825340515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573825340515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573825342429	Marionette	INFO	Listening on port 44911
+1573825342500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573825450019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekAUpW6"
+1573825450405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573825450405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573825450406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573825450406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573825454674	Marionette	INFO	Listening on port 40867
+1573825454732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+
+(/usr/lib/firefox/firefox:3478): dconf-WARNING **: 07:49:33.441: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:62:20\nonMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41\nemit@resource://devtools/shared/event-emitter.js:190:24\nemit@resource://devtools/shared/event-emitter.js:271:18\ngetMutations/<@resource://devtools/shared/fronts/inspector.js:425:12\n"
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:62:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:80:41
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+getMutations/<@resource://devtools/shared/fronts/inspector.js:425:12
+
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 44: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+1573825803757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg3DTil"
+1573825804153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573825804153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573825804153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573825804153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573825805615	Marionette	INFO	Listening on port 40443
+1573825805664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+JavaScript error: chrome://browser/content/browser.js, line 3665: TypeError: Cc['@mozilla.org/security/certoverride;1'] is undefined
+[Parent 3342, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 3342, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573825968360	Marionette	INFO	Stopped listening on port 44911
+1573826378027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRkFABV"
+1573826378432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826378432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826378433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826378433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826380023	Marionette	INFO	Listening on port 35031
+1573826380092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1573826457668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1B5XhN"
+1573826458058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826458058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826458058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826458058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826459524	Marionette	INFO	Listening on port 34797
+1573826459615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573826551932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSE0JlU"
+1573826552476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826552476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826552476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826552476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826554231	Marionette	INFO	Listening on port 37003
+1573826554246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573826618007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOaqSo7"
+1573826618446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826618446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826618446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826618447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826620293	Marionette	INFO	Listening on port 43359
+1573826620324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573826631426	Marionette	INFO	Stopped listening on port 43359
+1573826649616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHo8Ih3"
+1573826650015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826650016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826650016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826650016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826651529	Marionette	INFO	Listening on port 36769
+1573826651632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573826663096	Marionette	INFO	Stopped listening on port 36769
+1573826673054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM17mNX"
+1573826673444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826673444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826673445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826673445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826674933	Marionette	INFO	Listening on port 42273
+1573826674960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573826685982	Marionette	INFO	Stopped listening on port 42273
+1573826786048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaku95E"
+1573826786442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573826786442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573826786442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573826786443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573826787874	Marionette	INFO	Listening on port 36531
+1573826787955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://a.testaddressbook.com/assets/application-8c3a71ec59b2f7652f2a644a5d7bc1fdce71ef1bd8426a4ca688a10b4e8fa1d6.js, line 6: ReferenceError: Popper is not defined
+1573826798770	Marionette	INFO	Stopped listening on port 36531
+[Parent 6776, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4969, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4969, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7151, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7151, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6413, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6413, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4047, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4047, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573826933439	Marionette	INFO	Stopped listening on port 34797
+1573826933489	Marionette	INFO	Stopped listening on port 37003
+1573826933496	Marionette	INFO	Stopped listening on port 40443
+1573826933555	Marionette	INFO	Stopped listening on port 35031
+1573826933587	Marionette	INFO	Stopped listening on port 40867

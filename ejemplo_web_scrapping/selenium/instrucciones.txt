@@ -1,0 +1,18 @@
+Installing geckodriver:
+
+Go to the geckodriver releases page. Find the latest version of the driver for your platform and download it. For example:
+
+    wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
+
+Extract file with:
+
+    tar -xvzf geckodriver*
+
+Give permissions to execute:
+
+    chmod +x geckodriver
+
+Add driver to PATH:
+
+    export PATH=$PATH://home/saul/Documents/ITC/7mo-Semestre/Calidad\ y\ pruebas\ de\ software/codigo/ejemplo_web_scrapping/selenium/.
+

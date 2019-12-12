@@ -1,0 +1,26 @@
+Para correr ejemplo Watir:
+
+Instalando Selenium desde código fuente:
+sudo python setup.py install
+
+Instalando Ruby (dev):
+sudo apt-get install ruby-dev
+
+Instalando dependencias:
+sudo gem install selenium-webdriver
+sudo apt-get install build-essential patch ruby-dev zlib1g-dev liblzma-dev
+sudo apt-get install libxslt-dev libxml2-dev
+sudo gem install nokogiri -v "1.5.9"
+
+Instalando librerías
+sudo gem install 'watir'
+sudo gem install 'webdrivers'
+sudo gem install 'faker'
+
+Correr el ejemplo:
+ruby watir-example.rb
+
+
+
+
+
